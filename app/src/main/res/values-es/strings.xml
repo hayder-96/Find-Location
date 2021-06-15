@@ -1,0 +1,79 @@
+<resources>
+    <string name = "app_name">Encontrar ubicacion</string>
+    <string name = "title_activity_maps">Mapa</string>
+
+
+    <string name = "concat">Contactos</string>
+    <string name = "send_my_location">enviar mi ubicación</string>
+    <string name = "Get_my_location_without_internet">Obtener mi ubicación sin internet</string>
+
+    <string name = "people_location">ubicación de la gente</string>
+
+    <string name = "help">ayuda</string>
+
+    <string name = "Share_the_app">Comparte la aplicación</string>
+
+
+    <string name = "Default">Defecto</string>
+
+    <string name = "Satellite">Satélite</string>
+
+
+    <string name = "add_my_location">agregar mi ubicación</string>
+
+
+    <string name = "first">Al principio, haga clic en el botón Contactos</string>
+
+    <string name = "second">En segundo lugar, haga clic en el signo de agregar, lo llevará a los contactos</string>
+
+    <string name = "third">En tercer lugar, elija la persona con la que desea compartir su ubicación Tenga en cuenta que estos nombres y números no son reales, solo para aclarar</string>
+
+    <string name = "fourth">Finalmente, envíe un mensaje a esta persona para solicitar su ubicación Tenga en cuenta que estos nombres y números no son reales, solo para aclarar</string>
+
+    <string name = "next">Siguiente</string>
+
+    <string name = "no">No</string>
+
+    <string name = "yes">sí</string>
+
+
+
+
+
+
+
+
+
+
+    <string name = "get_location_sms">Enviará una solicitud por SMS para tomar una ubicación.</string>
+
+    <string name = "send_sms_to_concat">Enviará su ubicación por SMS a</string>
+
+    <string name = "add_me">Nota: esta persona debería agregarte</string>
+
+
+    <string name = "turn_Gps">Esta aplicación requiere la ubicación para ejecutarse</string>
+
+    <string name = "ok">OK</string>
+
+
+    <string name = "try_gps">Asegúrate de estar conectado a Internet y ejecutar la ubicación o inténtalo de nuevo.</string>
+
+
+    <string name = "turn_stalait">Este método toma su ubicación del satélite sin Internet, por lo que será un poco tarde</string>
+
+
+    <string name = "done_send">Tu ubicación ha sido enviada</string>
+
+
+    <string name = "error_gps">No se pudo enviar la ubicación, asegúrese de que el sitio esté funcionando</string>
+
+    <string name = "done_add">Su ubicación ha sido agregada</string>
+
+    <string name = "no_people">No hay personas que haya agregado</string>
+
+    <string name = "the_location">La locación</string>
+
+    <string name = "show">show</string>
+
+</resources>

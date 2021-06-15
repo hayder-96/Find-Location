@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">البحث عن الموقع</string>
+
+
+    <string name = "title_activity_maps">خريطة</string>
+
+
+    <string name = "concat">جهات الاتصال</string>
+    <string name = "send_my_location">ارسال موقعي</string>
+    <string name = "Get_my_location_without_internet">الحصول على موقعي بدون انترنت</string>
+
+    <string name = "people_location">مواقع الاشخاص</string>
+
+    <string name = "help">مساعدة</string>
+
+    <string name = "Share_the_app">مشاركة التطبيق</string>
+
+
+    <string name = "Default">اعتيادي</string>
+
+    <string name = "Satellite">قمر صناعي</string>
+
+
+    <string name = "add_my_location">اضافة موقعي</string>
+
+
+    <string name = "first">اولا اضغط على زر جهات الاتصال</string>
+
+    <string name = "second">ثانيا انقر على زر الاضافة سوف ينقلك الى جهات الاتصال الخاصة بك</string>
+
+    <string name = "third">ثالثا قم باضافة الشخص الذي تريد موقعه ضمن القائمة ,ملاحضة الاشخاص والارقام الموجودة غير حقيقية هي فقط للتوضيح</string>
+
+    <string name = "fourth">اخيرا ارسل رسالة طلب الحصول على الموقع للشخص الذي تريده,ملاحضة الاشخاص والارقام الموجودة غير حقيقية هي فقط للتوضيح</string>
+
+    <string name = "next">التالي</string>
+
+    <string name = "no">لا</string>
+
+    <string name = "yes">نعم</string>
+
+
+
+
+
+
+
+    <string name = "get_location_sms">سوف تقوم بارسال طلب عبر sms لاخذ موقع</string>
+
+    <string name = "send_sms_to_concat">سوف تقوم بارسال موقعك عبر  sms الى</string>
+
+    <string name = "add_me">ملاحضة:يجب ان يقوم هذا الشخص باضافتك</string>
+
+
+    <string name = "turn_Gps">هذا التطبيق يتطلب تشغيل الموقع</string>
+
+    <string name = "ok">حسنا</string>
+
+
+    <string name = "try_gps">تاكد من الاتصال بالانترنت وتشغيل الموقع او حاول مرة اخرى</string>
+
+
+    <string name = "turn_stalait">هذه الطريقة تاخذ موقعك من القمر الصناعي بدون انترنت لذلك سوف تتاخر قليلا</string>
+
+
+    <string name = "done_send">تم ارسال موقعك</string>
+
+
+    <string name = "error_gps">فشل ارسال الموقع تاكد من تشغبل الموقع</string>
+
+    <string name = "done_add">تم اضافة موقعه</string>
+
+<string name = "no_people">لا يوجد اشخاص قمت باضافتهم</string>
+
+        <string name = "the_location">الموقع</string>
+
+    <string name = "show">مشاهدة</string>
+</resources>

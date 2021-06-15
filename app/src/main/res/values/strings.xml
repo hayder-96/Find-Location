@@ -1,0 +1,79 @@
+<resources>
+    <string name = "app_name">Find Location</string>
+    <string name = "title_activity_maps">Map</string>
+
+
+    <string name = "concat">Contacts</string>
+    <string name = "send_my_location">send my location</string>
+    <string name = "Get_my_location_without_internet">Get my location without internet</string>
+
+    <string name = "people_location">people location</string>
+
+    <string name = "help">help</string>
+
+    <string name = "Share_the_app">Share the app</string>
+
+
+    <string name = "Default">Default</string>
+
+    <string name = "Satellite">Satellite</string>
+
+
+    <string name = "add_my_location">add mylocation</string>
+
+
+    <string name = "first">At first, click on the Contacts button</string>
+
+    <string name = "second">Second, click on the add sign, it will take you to the contacts</string>
+
+    <string name = "third">Third, choose the person you want to share your location with Note that these names and numbers are not real, just for clarification</string>
+
+    <string name = "fourth">Finally, send a message to this person to request their location Note that these names and numbers are not real, just for clarification</string>
+
+    <string name = "next">Next</string>
+
+    <string name = "no">no</string>
+
+    <string name = "yes">yes</string>
+
+
+
+
+
+
+
+
+
+
+    <string name = "get_location_sms">You will send a request via SMS to take a location</string>
+
+    <string name = "send_sms_to_concat">You will send your location via SMS to</string>
+
+    <string name = "add_me">Note: This person should add you</string>
+
+
+    <string name = "turn_Gps">This app requires the location to run</string>
+
+    <string name = "ok">OK</string>
+
+
+    <string name = "try_gps">Make sure you are connected to the internet and running the location or try again</string>
+
+
+    <string name = "turn_stalait">This method takes your location from the satellite without the Internet, so it will be a little late</string>
+
+
+    <string name = "done_send">Your location has been sent</string>
+
+
+    <string name = "error_gps">Failed to send the location make sure the site is working</string>
+
+    <string name = "done_add">His location has been added</string>
+
+    <string name = "no_people">There are no people I have added</string>
+
+    <string name = "the_location">The Location</string>
+
+    <string name = "show">show</string>
+
+</resources>

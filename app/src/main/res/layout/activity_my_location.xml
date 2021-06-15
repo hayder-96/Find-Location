@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"
+    android:orientation="vertical"
+    tools:context = ".MyLocation">
+
+  <LinearLayout
+      android:id = "@+id/layout1"
+      android:layout_width = "match_parent"
+      android:layout_height = "match_parent"
+      android:orientation = "vertical">
+            <Button
+                android:id = "@+id/button6"
+                android:layout_width = "wrap_content"
+                android:layout_height = "wrap_content"
+                android:layout_gravity = "center"
+                android:drawableEnd = "@drawable/ic_location"
+                android:onClick = "addMyLoc"
+                android:text = "@string/add_my_location"
+                app:layout_constraintBottom_toBottomOf = "parent"
+                app:layout_constraintEnd_toEndOf = "parent"
+                app:layout_constraintStart_toStartOf = "parent"
+                app:layout_constraintTop_toTopOf = "parent" /><Button
+      android:id = "@+id/but_send_myloc"
+      android:layout_width = "match_parent"
+      android:layout_height = "wrap_content"
+      android:drawableEnd = "@drawable/ic_send"
+      android:text = "@string/send_my_location" />
+      <fragment
+      android:id = "@+id/map"
+      android:name = "com.google.android.gms.maps.SupportMapFragment"
+      android:layout_width = "match_parent"
+      android:layout_height = "0dp"
+      android:layout_weight = "1.50" /></LinearLayout>
+    <LinearLayout
+        android:id="@+id/layout2"
+      android:layout_width = "match_parent"
+        android:visibility="gone"
+
+      android:layout_height = "match_parent"
+      android:orientation = "vertical">
+            <Button
+                android:id = "@+id/but_getloc"
+                android:drawableEnd="@drawable/ic_location"
+                android:layout_width = "match_parent"
+                android:layout_height = "wrap_content"
+
+                android:text = "@string/add_my_location" /><Button
+        android:id = "@+id/but_send_loc"
+        android:layout_width = "match_parent"
+        android:visibility="gone"
+        android:layout_height = "wrap_content"
+        android:drawableEnd = "@drawable/ic_send"
+        android:text = "@string/send_my_location" /><ProgressBar
+        android:id = "@+id/progressBar11"
+        style = "?android:attr/progressBarStyle"
+        android:visibility="gone"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content" />
+        <TextView
+        android:id = "@+id/text_loca"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:gravity="center"
+     /><TextView
+        android:id = "@+id/text_loca2"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:gravity="center"
+        android:layout_width = "match_parent"
+        android:layout_height = "wrap_content"
+        /><TextView
+        android:id = "@+id/text_loc_adress"
+        android:layout_width = "match_parent"
+        android:textSize="20sp"
+        android:textColor="#000"
+        android:gravity="center"
+        android:layout_height = "wrap_content"
+         /></LinearLayout>
+
+
+
+
+
+
+
+   </LinearLayout>

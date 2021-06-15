@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Trouver l emplacement</string>
+
+
+    <string name = "title_activity_maps">carte</string>
+
+
+    <string name = "concat">Contacts</string>
+    <string name = "send_my_location">envoyer ma position</string>
+    <string name = "Get_my_location_without_internet">Obtenir ma position sans internet</string>
+
+    <string name = "people_location">emplacement des personnes</string>
+
+    <string name = "help">aider</string>
+
+    <string name = "Share_the_app">Partager l application</string>
+
+
+    <string name = "Default">Défaut</string>
+
+    <string name = "Satellite">Satellite</string>
+
+
+    <string name = "add_my_location">ajouter mon emplacement</string>
+
+
+    <string name = "first">Dans un premier temps, cliquez sur le bouton Contacts</string>
+
+    <string name = "second">Deuxièmement, cliquez sur le signe d ajout, cela vous mènera aux contacts</string>
+
+    <string name = "third">Troisièmement, choisissez la personne avec qui vous souhaitez partager votre position. Notez que ces noms et numéros ne sont pas réels, juste pour clarifier</string>
+
+    <string name = "fourth">Enfin, envoyez un message à cette personne pour lui demander sa localisation Notez que ces noms et numéros ne sont pas réels, juste pour clarification</string>
+
+    <string name = "next">suivant</string>
+
+    <string name = "no">non</string>
+
+    <string name = "yes">Oui</string>
+
+
+
+    <string name = "get_location_sms">Vous allez envoyer une demande par SMS pour prendre un emplacement</string>
+
+    <string name = "send_sms_to_concat">Vous enverrez votre position par SMS à</string>
+
+    <string name = "add_me">Remarque : Cette personne doit vous ajouter</string>
+
+
+    <string name = "turn_Gps">Cette application nécessite l emplacement pour s exécuter</string>
+
+    <string name = "ok">d accord</string>
+
+
+    <string name = "try_gps">Assurez-vous que vous êtes connecté à Internet et que vous exécutez l emplacement ou réessayez</string>
+
+
+    <string name = "turn_stalait">Cette méthode prend votre position du satellite sans Internet, il sera donc un peu tard</string>
+
+
+    <string name = "done_send">Votre position a été envoyée</string>
+
+
+    <string name = "error_gps">Échec de l envoi de l emplacement, assurez-vous que le site fonctionne</string>
+
+    <string name = "done_add">Son emplacement a été ajouté</string>
+
+<string name = "no_people">Il n y a personne que j ai ajouté</string>
+
+
+        <string name = "the_location">l emplacement</string>
+
+
+      <string name = "show">spectacle</string>
+</resources>

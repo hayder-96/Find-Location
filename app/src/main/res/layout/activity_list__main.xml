@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android = "http://schemas.android.com/apk/res/android"
+    xmlns:app = "http://schemas.android.com/apk/res-auto"
+    xmlns:tools = "http://schemas.android.com/tools"
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"
+    android:background="@drawable/earth"
+    android:orientation="vertical"
+    tools:context = ".List_Main">
+
+          <com.google.android.gms.ads.AdView
+              xmlns:ads="http://schemas.android.com/apk/res-auto"
+              android:id="@+id/adView"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_centerHorizontal="true"
+              android:layout_alignParentBottom="true"
+              ads:adSize="BANNER"
+              ads:adUnitId="ca-app-pub-1707823485728314/7640468401">
+  </com.google.android.gms.ads.AdView>
+
+
+<ScrollView
+    android:layout_width = "match_parent"
+    android:layout_height = "match_parent"><LinearLayout
+    android:layout_width = "match_parent"
+    android:layout_height = "wrap_content"
+
+    android:orientation = "vertical">
+            <View
+                android:id = "@+id/view"
+                android:layout_width = "match_parent"
+                android:layout_height = "10dp" /><Button
+                android:id = "@+id/button"
+    android:textColor="#000"
+    android:textSize="15sp"
+                android:layout_width = "match_parent"
+                android:layout_height = "wrap_content"
+                android:onClick = "gotoconcat"
+                android:text = "@string/concat" /><View
+    android:id = "@+id/view2"
+    android:layout_width = "match_parent"
+    android:layout_height = "10dp" /><Button
+    android:id = "@+id/button2"
+    android:layout_width = "match_parent"
+    android:textColor="#000"
+    android:textSize="15sp"
+    android:layout_height = "wrap_content"
+    android:onClick = "sendLocation"
+    android:text = "@string/send_my_location" /><View
+    android:id = "@+id/view3"
+    android:layout_width = "match_parent"
+    android:layout_height = "10dp" /><Button
+    android:id = "@+id/button9"
+    android:layout_width = "match_parent"
+    android:layout_height = "wrap_content"
+    android:textColor="#000"
+    android:textSize="15sp"
+    android:onClick = "getLocation_withoutIntrnet"
+    android:text = "@string/Get_my_location_without_internet" /><View
+    android:id = "@+id/view4"
+    android:layout_width = "match_parent"
+    android:layout_height = "10dp" /><Button
+    android:id = "@+id/button3"
+    android:layout_width = "match_parent"
+    android:layout_height = "wrap_content"
+    android:onClick = "locationFriend"
+    android:textColor="#000"
+
+    android:textSize="15sp"
+    android:text = "@string/people_location" /><View
+    android:id = "@+id/view5"
+    android:layout_width = "match_parent"
+    android:layout_height = "10dp" /><Button
+    android:id = "@+id/button4"
+    android:layout_width = "match_parent"
+    android:layout_height = "wrap_content"
+    android:onClick = "help"
+    android:textColor="#000"
+    android:textSize="15sp"
+    android:text = "@string/help" /><View
+    android:id = "@+id/view6"
+    android:layout_width = "match_parent"
+    android:layout_height = "10dp" /><Button
+    android:id = "@+id/button5"
+    android:layout_width = "match_parent"
+    android:textColor="#000"
+    android:textSize="15sp"
+    android:layout_height = "wrap_content"
+    android:onClick = "shareApp"
+    android:text = "@string/Share_the_app" /></LinearLayout></ScrollView>
+</LinearLayout>

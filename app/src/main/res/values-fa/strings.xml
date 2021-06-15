@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">مکان را پیدا کنید</string>
+
+
+    <string name = "title_activity_maps">نقشه</string>
+
+
+    <string name = "concat">مخاطب</string>
+    <string name = "send_my_location">موقعیت من را بفرست</string>
+    <string name = "Get_my_location_without_internet">بدون اینترنت موقعیت من را بدست آورید</string>
+
+    <string name = "people_location">محل استقرار افراد</string>
+
+    <string name = "help">کمک</string>
+
+    <string name = "Share_the_app">برنامه را به اشتراک بگذارید</string>
+
+
+    <string name = "Default">پیش فرض</string>
+
+    <string name = "Satellite">ماهواره</string>
+
+
+    <string name = "add_my_location">مکان من را اضافه کنید</string>
+
+
+    <string name = "first">ابتدا بر روی دکمه مخاطبین کلیک کنید</string>
+
+    <string name = "second">دوم ، روی علامت افزودن کلیک کنید ، این کار شما را به مخاطبین می رساند</string>
+
+    <string name = "third">سوم ، انتخاب کنید که می خواهید مکان خود را با چه کسی به اشتراک بگذارید. توجه داشته باشید که این اسامی و اعداد فقط برای روشن کردن واقعی نیستند</string>
+
+    <string name = "fourth">سرانجام ، به آن شخص پیام دهید تا محل زندگی خود را جویا شود توجه داشته باشید که این نامها و اعداد فقط برای توضیح روشن نیستند</string>
+
+    <string name = "next">ذیل</string>
+
+    <string name = "no">نه</string>
+
+    <string name = "yes">آره</string>
+
+
+
+    <string name = "get_location_sms">درخواستی را برای ارسال مکان با پیامک ارسال خواهید کرد</string>
+
+    <string name = "send_sms_to_concat">موقعیت خود را با پیامک به ارسال خواهید کرد</string>
+
+    <string name = "add_me">توجه: این شخص باید شما را اضافه کند</string>
+
+
+    <string name = "turn_Gps">این برنامه برای اجرا به مکان نیاز دارد</string>
+
+    <string name = "ok">باشه</string>
+
+
+    <string name = "try_gps">مطمئن شوید که به اینترنت متصل هستید و مکان را اجرا کنید یا دوباره امتحان کنید</string>
+
+
+    <string name = "turn_stalait">این روش موقعیت ماهواره ای شما را بدون اینترنت می گیرد ، بنابراین کمی دیر خواهد شد</string>
+
+
+    <string name = "done_send">مکان شما ارسال شده است</string>
+
+
+    <string name = "error_gps">مکان ارسال نشد ، مطمئن شوید سایت کار می کند</string>
+
+    <string name = "done_add">مکان آن اضافه شده است</string>
+
+<string name = "no_people">کسی نیست که من اضافه کردم</string>
+
+        <string name = "the_location">موقعیت</string>
+
+
+      <string name = "show">نشان دادن</string>
+</resources>
